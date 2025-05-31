@@ -1,9 +1,10 @@
 # 2DRenderer
 
-#AÇIKLAMA
+# AÇIKLAMA
+
 2DRenderer, C++ ve OpenGL kullanılarak geliştirilmiş, temel 2D grafik çizim işlemlerini gerçekleştirebilen bir render motorudur. Bu proje, oyun geliştirme, simülasyon ve eğitim amaçlı uygulamalarda kullanılabilecek esnek ve modüler bir yapı sunmayı hedeflemektedir.
 
-#Özellikler
+# Özellikler
 Temel Şekil Çizimi: Kare, üçgen gibi temel 2D şekillerin çizimi.
 
 Doku (Texture) Desteği: Harici görsellerin sahneye entegre edilmesi.
@@ -16,7 +17,7 @@ Transformasyonlar: Nesneler üzerinde ölçekleme, döndürme ve konumlandırma 
 
 Modüler Yapı: Kolayca genişletilebilir ve bakım yapılabilir kod mimarisi.
 
-#Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 C++: Yüksek performanslı sistem programlama dili.
 
